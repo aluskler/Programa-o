@@ -1,5 +1,5 @@
-Histórico de aprendizado 
-Trabalhos
-Atividades
-Testes
-treino
+Histórico de aprendizado,
+Trabalhos,
+Atividades,
+Testes,
+treino.
