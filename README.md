@@ -1,5 +1,5 @@
 Histórico de aprendizado,
 Trabalhos,
 Atividades,
-Testes,
+Testes e
 treino.
